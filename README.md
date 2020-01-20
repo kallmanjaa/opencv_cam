@@ -1,7 +1,7 @@
-Face detection using opencv
+# Face detection using opencv
 
-Usage:
-mkdir build
-cd build
-cmake ../ 
-make 
+## Usage:
+    mkdir build
+    cd build
+    cmake ../ 
+    make 
